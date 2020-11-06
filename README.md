@@ -9,7 +9,8 @@ note: Sometimes the dataset link does not work as there possible issues with the
 
 <b>Next Steps/Fixes: </b> 
 1) Improve model accuracy with more hyperparameter tuning(more epochs, lower learning rate, other optimizers/loss functions)
-2) Add and test out more pretrained models (Alexnet, other variants of resnet, vgg etc.)
-3) Include more breeds in the dataset (collect dataset via scrapping)
-4) Deploy into a web app
+2) Incpetion model runs into errors while training - fix.
+3) Add and test out more pretrained models (Alexnet, other variants of resnet, vgg etc.)
+4) Include more breeds in the dataset (collect dataset via scrapping)
+5) Deploy into a web app
 
